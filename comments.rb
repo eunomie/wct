@@ -1,4 +1,5 @@
 require "sinatra"
+require "grit"
 
 get '/' do
   # Comment form
